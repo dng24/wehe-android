@@ -30,7 +30,7 @@ import mobi.meddle.wehe.fragment.ResultsFragment;
 import mobi.meddle.wehe.fragment.SelectionFragment;
 
 public class MainActivity extends AppCompatActivity {
-
+    //test commit
     private final int locationRequestCode = 1093;
     private DrawerLayout mDrawer;
     private Toolbar mToolbar;
